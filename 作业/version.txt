@@ -1,4 +1,4 @@
-GitHub
+Github
 
 GitHub是一个共享虚拟主机服务，用于存放使用Git的软件代码和内容项目。
 
